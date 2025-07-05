@@ -9,8 +9,7 @@ It allows companies to post jobs and applicants to apply for them using basic fu
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/job-portal-backend.git
-cd job-portal-backend
+git clone https://github.com/NaveenShivnathVerma/job-portal-backend.git
 
 Create virtual environment and install Django
 ```bash
